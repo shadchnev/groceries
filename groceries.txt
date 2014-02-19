@@ -1,6 +1,6 @@
-1. Eggs
-2. Cheese
-3. Bacon
-4. Toilet roll
-5. Milk
-6. Coffee
+Eggs
+Cheese
+Bacon
+Toilet roll
+Milk
+Coffee
