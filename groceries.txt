@@ -1,6 +1,6 @@
-1. Pizza
-2. Cheese
-3. Bacon
-4. Beer
-5. Wine
-6. Fireworks
+Pizza
+Cheese
+Bacon
+Beer
+Wine
+Fireworks
